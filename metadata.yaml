@@ -1,4 +1,8 @@
 _repo: Reise-nach-dem-skandinavischen-Norden-und-der-Insel-Island-im-Jahre-1845-Zweiter-Band_47193
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47193-h/images/cover.jpg
 creator:
   author:
     agent_name: Pfeiffer, Ida
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3807
     wikipedia: http://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47193#Reise-nach-dem-skandinavischen-Norden-und-der-Insel-Island-im-Jahre-1845-Zweiter-Band
 gutenberg_issued: '2014-10-25'
 gutenberg_type: Text
 identifiers:
